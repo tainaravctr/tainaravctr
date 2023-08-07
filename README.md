@@ -1,5 +1,5 @@
 # Oiee, seja bem vindo (a)!
-Meu nome é Tainara Victória, moro em SP e tenho 18 anos 😄
+Meu nome é Tainara Victória, moro em SP e tenho 19 anos 😄
 
 Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei meus projetos com aprendizados ao longo da minha carreira!
 
@@ -7,9 +7,9 @@ Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei m
 
 
 
-   <a href="https://github.com/taiivictoria">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tainaravctra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiivictoria&layout=compact&langs_count=7&theme=dracula"/>
+   <a href="https://github.com/tainaravctr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tainaravctr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainaravctr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
