@@ -1,16 +1,17 @@
-### Hi there 👋
+# Oiee, seja bem vindo (a)!
+Meu nome é Tainara Victória, moro em SP e tenho 18 anos 😄
 
-<!--
-**tainaravctr/tainaravctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei meus projetos com aprendizados ao longo da minha carreira!
 
-Here are some ideas to get you started:
+#### 💭"Faça hoje o que te trará orgulho amanhã"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+   <a href="https://github.com/taiivictoria">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taiivictoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiivictoria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-violet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-santos-58a3201bb/)](https://www.linkedin.com/in/tainara-santos-58a3201bb/)
