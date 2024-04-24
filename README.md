@@ -1,9 +1,9 @@
 # Oiee, seja bem vindo (a)!
-Meu nome é Tainara Victória, moro em SP e tenho 19 anos 😄
+Meu nome é Tainara Victória, moro em SP e tenho 20 anos 😄
 
 Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei meus projetos com aprendizados ao longo da minha carreira!
 
-#### 💭"Faça hoje o que te trará orgulho amanhã"
+#### 💭"Não espere o futuro mudar sua vida, porque o futuro será a consequência do presente." 
 
 
 
@@ -14,4 +14,4 @@ Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei m
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-violet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-santos-58a3201bb/)](https://www.linkedin.com/in/tainara-santos-58a3201bb/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-violet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-santos-58a3201bb/)](https://www.linkedin.com/in/tainaravctrsantos/)
